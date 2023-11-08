@@ -1,4 +1,3 @@
-### Hi there 👋
 - 🔭 I’m currently working on my semester project at Aalborg University.
 - 🌱 I’m currently learning C.
 - 💬 Ask me about my hobbies.
