@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on my semester project at Aalborg University.
-- 🌱 I’m currently learning C.
+- 🔭 I’m currently working on my 2nd semester project at Aalborg University.
+- 🌱 I’m currently learning JavaScript.
 - 💬 Ask me about my hobbies.
 - 📫 How to reach me: toxicdanoosh (discord)
 - ⚡ Fun fact: i like to drive fast...
