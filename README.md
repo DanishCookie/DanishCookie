@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on my 3rd semester project at Aalborg University.
+- 🔭 Developing an nft minting bot at the moment.
 - 🌱 I’m currently learning React and Java.
 - 💬 Ask me about my hobbies.
 - 📫 How to reach me: toxicdanoosh (discord)
