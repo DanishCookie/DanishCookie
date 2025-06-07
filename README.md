@@ -1,5 +1,1 @@
-- 🔭 Developing an nft minting bot at the moment.
-- 🌱 I’m currently learning React and Java.
-- 💬 Ask me about my hobbies.
-- 📫 How to reach me: toxicdanoosh (discord)
-- ⚡ Fun fact: i like to drive fast...
+web3 dev / freelancer
