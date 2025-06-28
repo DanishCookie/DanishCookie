@@ -1,1 +1,1 @@
-web3 dev / freelancer
+web3 dev
